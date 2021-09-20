@@ -28,8 +28,7 @@
 
 
 ## Reach me 
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fuentesapu/)](https://www.linkedin.com/in/fuentesapu/)
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:josepablofa@gmail.com)
+
 
 ### Interesting stats
 
