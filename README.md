@@ -28,6 +28,7 @@
 
 
 ## Reach me 
+[![Mail](https://img.shields.io/badge/Mail-Jp.1398%40hotmail.com-blue?style=flat-square&logo=hotmail&logoColor=blue)](mailto:sarthakbh321@gmail.com)
 
 
 ### Interesting stats
