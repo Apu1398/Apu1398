@@ -28,8 +28,8 @@
 
 
 ## Reach me 
-[![Mail](https://img.shields.io/badge/Mail-Jp.1398%40hotmail.com-blue?style=flat-square&logo=hotmail&logoColor=blue)](mailto:jp.1398@hotmail.com)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fuentesapu/)](https://www.linkedin.com/in/fuentesapu/)
+[![Mail](https://img.shields.io/badge/Mail-Jp.1398%40hotmail.com-blue?style=flat-square&logo=hotmail&logoColor=blue)](mailto:Jp.1398@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/fuentesapu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fuentesapu/)](https://www.linkedin.com/in/fuentesapu/)
 
 
 ### Interesting stats
