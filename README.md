@@ -18,4 +18,7 @@
 	- NodeJS
 	- MateriallUI
 
+### Interesting stats
+
+![Apu's stats](https://github-readme-stats.vercel.app/api?username=Apu1398&show_icons=true)
 
