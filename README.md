@@ -2,15 +2,20 @@
 
 
 ## Experience :computer:
-- **Competitive Programming**
+- **Langauges and tools**
 	- Python
-	- 
 	- C / C++ / C#
 	- Java
-- **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
+	- Git
+	- Visual Studio
+	- Dockers
+- **Web Development**
+	- HTML, CSS, Javascript and typescript
 	- Bootstrap
-	- React with Redux :electron:
-	- React Native
+	- AngularJS
+	- React
+	- ASP.NET Core
+	- NodeJS
+	- MateriallUI
 
 
